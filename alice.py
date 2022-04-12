@@ -3,7 +3,6 @@ import logging
 import json
 import random
 
-
 app = Flask(__name__)
 
 logging.basicConfig(level=logging.INFO)
